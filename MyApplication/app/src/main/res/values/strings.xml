@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_home">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_search">Search</string>
+    <string name="title_add_event">Add Event</string>
+    <string name="title_calendar">Calendar</string>
+    <string name="title_profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--    facebook-->
+    <string name="facebook_app_id">498524954699515</string>
+    <string name="fb_login_protocol_scheme">fb498524954699515</string>
+    <string name="setting">Setting</string>
+    <string name="logout">Logout</string>
+
+    <!-- All events strings -->
+    <string name="start_date">From:</string>
+    <string name="end_date">To:</string>
+    <string name="date">in</string>
+    <string name="place">Place:</string>
+
+
+    <!-- Add Event Activity Strings -->
+    <string name="edt_event_name_hint">Enter event name</string>
+    <string name="edt_event_description_hint">Enter event description</string>
+    <string name="edt_event_place_hint">Enter place</string>
+    <string name="edt_event_start_date_hint">Enter start date (hh:mm_dd-mm-yyyy)</string>
+    <string name="edt_event_end_date_hint">Enter end date (hh:mm_dd-mm-yyyy)</string>
+    <string name="edt_event_category_hint">Event category</string>
+    <string name="edt_event_type_hint">Event type</string>
+    <string name="txt_image">* Images</string>
+    <string name="cb_limit">Limit</string>
+    <string name="edt_limit_hint">Max No. of people</string>
+    <string name="txt_add_event_image_description">This is an image</string>
+    <string name="btn_add_event">Add Event</string>
+    <string name="title_activity_f_b_profile">FBProfileActivity</string>
+    <string name="title_activity_img_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
